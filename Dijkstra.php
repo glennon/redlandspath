@@ -8,8 +8,8 @@
  */
  
  
- // the files Dijkstra.php, network.php, pather.php, and PriorityQueue.php all go together.
- // run via pather.php?start=A&end=B
+ // the files Dijkstra.php, network.php, index.php, oldfashioned.php and PriorityQueue.php all go together.
+ // run via index.php?start=A&end=B
  // or something like that.
  
  
