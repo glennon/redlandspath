@@ -10,4 +10,15 @@ Most of the files here are a web implementation of Dijkstra's Algorithm at NOVA 
 * NOVA Routing <a href>http://github.com/glennon/redlandspath</a>
 * Demo (stats): <a href>http://iris.mobi/stats/?start=B&end=A</a>
 * Demo (map): <a href>http://iris.mobi/path/?start=B&end=A</a>
+<p>
 
+<b>Software Tools</b>
+* Github; see: <a href>https://education.github.com/</a>
+* Microsoft Excel Solver; example: <a href>http://www.excel-easy.com/data-analysis/solver.html</a>
+* Gurobi Solver; see: <a href>http://www.gurobi.com/products/licensing-and-pricing/academic-licensing</a>
+* FICO Xpress Mosel; see: <a href>https://community.fico.com/download.jspa</a>
+* QGIS; see: <a href>http://qgis.org</a>
+* GeoJSON.io; <a href>http://geojson.io</a>
+* Learn JavaScript; <a href>http://www.codecademy.com/en/tracks/javascript</a>
+* Learn Android; <a href>https://www.udacity.com/course/ud853</a>
+* Amazon AWS, Heroku, or some other free/cheap hosting that allows scripting; <a href>http://aws.amazon.com/education/</a>
