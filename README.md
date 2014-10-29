@@ -16,6 +16,7 @@ Most of the files here are a web implementation of Dijkstra's Algorithm at NOVA 
 <b>Software Tools</b>
 * Github; see: <a href>https://education.github.com/</a>
 * Microsoft Excel Solver; example: <a href>http://www.excel-easy.com/data-analysis/solver.html</a>
+* Matt's Excel Example is above as mclpexcel.xlsx (make sure to enable Solver add-in) 
 * Gurobi Solver; see: <a href>http://www.gurobi.com/products/licensing-and-pricing/academic-licensing</a>
 * FICO Xpress Mosel; see: <a href>https://community.fico.com/download.jspa</a>
 * QGIS; see: <a href>http://qgis.org</a>
