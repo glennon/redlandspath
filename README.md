@@ -9,8 +9,6 @@ Most of the files here are a web implementation of Dijkstra's Algorithm at NOVA 
 * Geyser Travel Problem <a href>http://alanglennon.com/genets/</a>
 * NOVA Routing (this page) <a href>http://github.com/glennon/redlandspath</a>
 * Other NOVA Code <a href>http://github.com/novagis/novapublic</a>
-* Demo (stats): <a href>http://iris.mobi/stats/?start=B&end=A</a>
-* Demo (map): <a href>http://iris.mobi/path/?start=B&end=A</a>
 <p>
 
 <b>Software Tools</b>
