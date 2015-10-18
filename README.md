@@ -2,7 +2,9 @@
 with Alan Glennon and Matt Niblett<br>
 29 October 2014
 <p>
-Most of the files here are a web implementation of Dijkstra's Algorithm at NOVA Portugal. It uses Mapbox for the visualization parts, so you'd need to add your token in the appropriate spot in index.php. Otherwise, if you were to throw this code onto a php/web server, you could get a visual result with: example.com/index.php?start=A&end=B. Similarly, you could get the length of the path with example.com/stats.php?start=A&end=B. Good times. The code was patched together and is presented here in a raw (redundant/embarrassing) form. You are welcome to edit and improve.
+Most of the files here are a web implementation of Dijkstra's Algorithm at NOVA Portugal. It uses Mapbox for the visualization parts, so you'd need to add your token at the appropriate spot in index.php. If you were to throw this code onto a php-enabled web server, you could get a visual result with: example.com/index.php?start=A&end=B. Similarly, you could get the length of the path with example.com/stats.php?start=A&end=B.  
+
+The code was patched together and is presented here in a raw (redundant/embarrassing) form. You are welcome to edit and improve.
 
 <p>
 <b>Show Notes</b>
